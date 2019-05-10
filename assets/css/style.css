@@ -17,6 +17,11 @@
     font-family: 'Mali', cursive;
     color: lightslategray
 }
+
+#aboutUsInfo {
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
 /* 
 .carousel-inner > .carousel-item > img {
     width: ;
