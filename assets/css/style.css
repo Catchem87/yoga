@@ -1,0 +1,24 @@
+.navbar-brand {
+    font-family: 'Crushed', cursive;
+}
+
+.container {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.footer {
+    height: 40px;
+    background-color: rgb(237, 237, 253);
+}
+.footer-text {
+    padding-top: 7px;
+    text-align: center;
+    font-family: 'Mali', cursive;
+    color: lightslategray
+}
+/* 
+.carousel-inner > .carousel-item > img {
+    width: ;
+    height: ;
+} */
